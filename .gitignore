@@ -3,6 +3,7 @@
 
 # Except these ...
 !.gitignore
+!Makefile
 
 !*.py
 !*.ipynb
@@ -10,7 +11,9 @@
 !*.R
 
 !*.cpp
+!*.hpp
 !*.c
+!*.h
 !*.C
 
 !*.asm
